@@ -1,0 +1,25 @@
+
+{"friendlyVersion": "VERSION",
+ "versionDefName": "APP_RESOURCES",
+ "media": [
+	   {
+	    "type":"raw",
+	    "defName":"DUMMY",
+	    "file":"resource_map.json"
+	   },
+
+           {
+            "type": "font",
+            "characterRegex": "[ :0-9]",
+            "defName" : "FONT_MYFONT_34",
+            "file": "fonts/font.ttf"
+           },
+
+           {
+            "type": "font",
+            "characterRegex": "[a-z A-Z:0-9]",
+            "defName" : "FONT_MYFONT_14",
+            "file": "fonts/font.ttf"
+           }
+	  ]
+}
